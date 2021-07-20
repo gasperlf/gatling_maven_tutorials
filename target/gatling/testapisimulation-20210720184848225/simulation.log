@@ -1,0 +1,4 @@
+RUN	simulations.TestApiSimulation	testapisimulation	1626806928225	test api	3.6.1
+USER	get user	START	1626806930624
+REQUEST		get user request	1626806930667	1626806930849	OK	 
+USER	get user	END	1626806930880

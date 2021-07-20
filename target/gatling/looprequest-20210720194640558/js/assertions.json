@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.LoopRequest",
+  "simulationId": "looprequest",
+  "start": 1626810400558,
+  "description": "test loop request",
+  "scenarios": ["user request scenario"],
+  "assertions": [
+
+  ]
+}

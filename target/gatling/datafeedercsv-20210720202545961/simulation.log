@@ -1,0 +1,10 @@
+RUN	simulations.DataFeederCSV	datafeedercsv	1626812745961	test data feeder	3.6.1
+USER	CSV Feeder test	START	1626812747782
+REQUEST		Get single user request	1626812747850	1626812748615	OK	 
+REQUEST		Get single user request	1626812748784	1626812748967	OK	 
+REQUEST		Get single user request	1626812748970	1626812749153	OK	 
+REQUEST		Get single user request	1626812749157	1626812749335	KO	status.find.is(200), but actually found 304
+REQUEST		Get single user request	1626812749347	1626812749772	KO	status.find.is(200), but actually found 304
+REQUEST		Get single user request	1626812749775	1626812749949	KO	status.find.is(200), but actually found 304
+REQUEST		Get single user request	1626812749952	1626812750147	KO	status.find.is(200), but actually found 304
+USER	CSV Feeder test	END	1626812750152

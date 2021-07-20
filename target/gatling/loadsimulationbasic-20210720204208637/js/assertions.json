@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.LoadSimulationBasic",
+  "simulationId": "loadsimulationbasic",
+  "start": 1626813728637,
+  "description": "test basic simulation",
+  "scenarios": ["CSV Feeder test"],
+  "assertions": [
+
+  ]
+}
